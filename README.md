@@ -1,7 +1,11 @@
 
 # 🎨 QR Code Generator  
 A simple and customizable Python-based QR code generator that transforms your input (text, URLs, etc.) into scannable QR codes in image format. Perfect for sharing links, creating virtual business cards, or embedding data in a stylish and functional way!
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue" alt="Python Version">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+  <img src="https://img.shields.io/badge/Status-Active-success" alt="Project Status">
+</p>
 ---
 
 ## 🌟 Features  
